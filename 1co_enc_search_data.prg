@@ -28,7 +28,7 @@
  *************************************************************************
  Rev    Date     By             Comments
  ------ -------- -------------- ------------------------------------------
- 001    03/03/22 J. Simpson     Initial Development
+ 001    03/03/22 J. Simpson     Initial Development...
  *************************************************************************/
 drop program 1co_enc_search_data:group1 go
 create program 1co_enc_search_data:group1
